@@ -1,29 +1,44 @@
-𝙎𝘼𝙏𝙃𝘼𝙉𝙄𝘾 𝙐𝙄 𝘾𝙍𝙀𝙎𝙃𝙀𝙍 𝘽𝙊𝙏𝙎 𝙋𝘼𝙂𝙀 
+# sᴀᴛʜᴀɴɪᴄ ᴜɪ ᴄʀᴇᴀʜᴇʀ ʙᴏᴛ ᴘᴀɢᴇ
 
 <img src="https://ik.imagekit.io/eypz/1728233394984_sMdJYvA_i.png" height="500" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=2000&color=5513F7&width=435&lines=SATHANIC+UI+CREAHER+BUG+BOT" alt="Typing SVG" /></a>
 
-# FORK THISE REPO MUST 🪷
+♻️ ғᴏʀᴋ ᴛʜɪsᴇ ʀᴇᴘᴏ ᴍᴜsᴛ ♻️
 
   <a href="https://github.com/Sathanic666/SATHANIC/fork"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK SATHANIC REPO" width="100"></a>
   
-
+   [`ℹ️Contact Owner`](https://wa.me/919778158839)      
+   
      1.      apt update
+     
      2.      apt upgrade
+     
      3.      pkg update && pkg upgrade
+     
      4.      pkg install bash
+     
      5.      pkg install libwebp
+     
      6.      pkg install git
+     
      7.      pkg install nodejs
+     
      8.      pkg install ffmpeg
+     
      9.      pkg install wget
+     
      10.     pkg install imagemagick
+     
      11.     pkg install yarn
+     
      12.     termux-setup-storage
+     
      13.     cd /storage/emulated/0/ folder name 
-     14.     yarn install 
+     
+     14.     yarn install
+     
      15.     npm start
     
 
