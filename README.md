@@ -16,7 +16,7 @@
 
 
      1.      apt update
-2.    apt upgrade
+     2.      apt upgrade
 3.    pkg update && pkg upgrade
 4.    pkg install bash
 5.    pkg install libwebp
