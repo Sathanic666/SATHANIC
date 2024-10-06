@@ -13,3 +13,17 @@
 3. 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗨𝗚 𝗕𝗢𝗧 + 𝗗𝗘𝗩𝗜𝗖𝗘 𝗛𝗢𝗠𝗘 𝗙𝗥𝗘𝗘𝗭𝗘 𝗩1 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
 4. 𝗜𝗣𝗛𝗢𝗡𝗘 𝗖𝗥𝗘𝗦𝗛𝗘𝗥 + 𝗣𝗔𝗡𝗡𝗘𝗟 𝗞𝗜𝗟𝗟 { ᵈᵉᵛⁱᶜᵉ ᵇᵒᵒᵗ ᵐᵒᵈᵉ } 𝘃5 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘
 
+
+
+     1.      apt update
+2.    apt upgrade
+3.    pkg update && pkg upgrade
+4.    pkg install bash
+5.    pkg install libwebp
+6.    pkg install git
+7.    pkg install nodejs
+8.    pkg install ffmpeg
+9.    pkg install wget
+10.  pkg install imagemagick
+11.  pkg install yarn
+12.  termux-setup-storage
